@@ -240,11 +240,11 @@ public class JPA_task2
         stringBuilder.AppendLine();
         stringBuilder.AppendLine("General Options:");
         stringBuilder.AppendLine("JPA_task2 [n] [a] [x] [b] [y]");
-        stringBuilder.AppendLine("  [n] \t: {integer} n");
-        stringBuilder.AppendLine("  [a] \t: {integer} a");
-        stringBuilder.AppendLine("  [x] \t: {integer} x");
-        stringBuilder.AppendLine("  [b] \t: {integer} b");
-        stringBuilder.AppendLine("  [y] \t: {integer} y");
+        stringBuilder.AppendLine("  [n] \t: {integer} How many stations does Roflyandia have");
+        stringBuilder.AppendLine("  [a] \t: {integer} Daniel's start station");
+        stringBuilder.AppendLine("  [x] \t: {integer} Daniel's finish station");
+        stringBuilder.AppendLine("  [b] \t: {integer} Vlad's start station");
+        stringBuilder.AppendLine("  [y] \t: {integer} Vlad's finish station");
         stringBuilder.AppendLine();
         stringBuilder.AppendLine("Help Options:");
         stringBuilder.AppendLine("/help or --help or /? \t: This help information");
