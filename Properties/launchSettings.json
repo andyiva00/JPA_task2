@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JPA_task2": {
+      "commandName": "Project",
+      "commandLineArgs": "10 2 1 9 10"
+    }
+  }
+}
